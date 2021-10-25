@@ -1,14 +1,14 @@
-1. run backend
+**1. run backend**
   - cd backend
   - npm install
   - npm run dev
   
-2. run frontend
+**2. run frontend**
   - cd frontend
   - npm install
   - npm run start
   
-3. install app on virtual machine (Virtual Box)
+**3. install app on virtual machine (Virtual Box)**
   - download ubuntu server from https://ubuntu.com/download/server
   - set up network in virtual box and install openssh server
   - connect remote computer and guest computer with ssh key
