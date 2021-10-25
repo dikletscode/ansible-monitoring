@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/dikletscode/client.git
+[submodule "ansible-setup"]
+	path = ansible-setup
+	url = https://github.com/dikletscode/ansible-setup.git
